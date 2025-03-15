@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="styles.css">
-
-
 ## Contents 
 - [Work Experience](#work-experience)  
 - [Projects](#projects)
