@@ -1,0 +1,25 @@
+.toc-sidebar {
+  float: left;
+  width: 220px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.toc-sidebar img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.toc-sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.toc-sidebar ul li {
+  margin: 10px 0;
+}
+
+.content {
+  margin-left: 240px;
+}
+
