@@ -4,6 +4,12 @@
 Statistics & Analytics B.S. 
 UNC Chapel Hill
 
+## Jump To:  
+- [Education](#education)  
+- [Work Experience](#work-experience)  
+- [Projects](#projects)  
+
+
 ### Work Experience
 Statistical Programmer | Lineberger Comprehensive Cancer Center
 - Developed R program to automate correlation matrix calculations for 17,000 genes across 2,000 single-cell RNA-seq datasets
