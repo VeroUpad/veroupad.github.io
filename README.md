@@ -1,11 +1,11 @@
-### Education
-Statistics & Analytics B.S. 
-UNC Chapel Hill
-
-### JUMP TO  
+## Contents 
 - [Work Experience](#work-experience)  
 - [Projects](#projects)
 - [Conference Posters](#conference-posters)
+
+### Education
+Statistics & Analytics B.S. 
+UNC Chapel Hill
 
 ### Work Experience
 Statistical Programmer | Lineberger Comprehensive Cancer Center
