@@ -1,5 +1,5 @@
 ## Profile
-Hi! I'm a Statistics B.S major at **UNC Chapel Hill**. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of  analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique by building mathematical **prediction models**— this is an extention of the Maputo Sanitation Project, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. My research interests are to explore connections between existing structures and **community health patterns**. 
+Hi! I'm a **Statistics B.S major** at **UNC Chapel Hill**. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of  analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique by building **mathematical prediction models**— this is an extention of the **Maputo Sanitation Project**, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. My research interests are to explore connections between existing structures and community health patterns. 
 
 ## Contents 
 - [Work Experience](#work-experience)  
