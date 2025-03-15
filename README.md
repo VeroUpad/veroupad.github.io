@@ -28,12 +28,17 @@ Data Analysis Researcher | Gillings School of Global Public Health
 
 ### Projects
 Disease Contraction Simulation **(Python)** [Link](https://github.com/VeroUpad/COMP110_Python/tree/main/ex09)
+> COVID-19 spread & recovery dynamic graphical visual 
 
 NBA Playoffs Models **(R)** [Link](https://github.com/VeroUpad/NBA-Playoffs-Predictive-Modeling)
+> Build Machine Learning Models (Random Forest, Ridge Regression) to predict NBA scores
 
 Digital Learning Habits **(R)** [Link](https://github.com/VeroUpad/Duke-Datafest-Digital-Learning)
+> Analyzed student engagement data for online learning platform; Duke DataFest 2024
 
 Global Lemur Conservation **(R)** [Link](https://github.com/VeroUpad/DLC-Lemur-Population-Project/tree/main)
+> Predicted life spans and reproduction habits using regression modeling   
 
 Choose Your Own Adventure **(Python)** [Link](https://github.com/VeroUpad/2022-Python-Projects/blob/main/cyoa.py)
+> Game with functions for player input, random- movement, and game state tracking.
 
