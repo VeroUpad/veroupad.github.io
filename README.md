@@ -1,12 +1,7 @@
 # Statistical Programmer
 
-img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-![Veronica Headshot](upadhyay_veronica_jan_2025_2.JPG)
+<img src="upadhyay_veronica_jan_2025_2.JPG" alt="Veronica Upadhyay" width="150" height="150" style="border-radius: 50%;">
+
 
 
 
