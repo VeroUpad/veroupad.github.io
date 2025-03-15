@@ -1,19 +1,5 @@
 title: Veronica Upadhyay
 logo: upadhyay_veronica_jan_2025_2.JPG
-
-@import "{{ site.theme }}";
-header {
-  img {
-    border-radius: 50%;
-  }
-  p {
-    text-align: center;
-  }
-  p.view {
-    text-align: left;
-  }
-}
-
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
