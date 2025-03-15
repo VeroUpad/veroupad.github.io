@@ -1,5 +1,5 @@
 ## Profile
-Hi! I'm a **Statistics B.S major** at **UNC Chapel Hill**. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of  analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique by building **mathematical prediction models**— this is an extention of the **Maputo Sanitation Project**, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. My research interests are to explore connections between existing structures and community health patterns. 
+Hi! I'm a **Statistics B.S** major at **UNC Chapel Hill**. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of  analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique by building mathematical prediction models— this is an extention of the Maputo Sanitation Project, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. My research interests are to explore connections between existing structures and community health patterns. 
 
 ## Contents 
 - [Work Experience](#work-experience)  
@@ -12,23 +12,27 @@ UNC Chapel Hill
 
 ### Work Experience
 Statistical Programmer | Lineberger Comprehensive Cancer Center
+
 *Jun 2023 to Present*
 - Developed R program to automate correlation matrix calculations for 17,000 genes across 2,000 single-cell RNA-seq datasets
 - Incorporated cell-line fitness conditions to assess genetic dependencies across 16 experimental conditions
 - Used high-performance computing clusters in a Linux-based system to generate score matrices for genomics data
 
 Research Fellowship | Gillings School of Global Public Health 
+
 *May 2024 to Present*
 - Awarded $4,000 grant for independent research on infection risks in a public health study funded by Bill Gates Foundation
 - Designed 6 Quantitative Microbial Risk Assessment models to predict E. coli infection among youth population
 - Developed R functions to run Beta- Poisson and Exponential models to simulate infection risks across varying ages
 
 Program Assistant | UNC Department of Applied Physical Sciences 
+
 *Feb 2024 to Dec 2024*
 - Designed custom parts using Tinkercad and Adobe Illustrator to support engineering and biomedical research projects
 - Supported users with 3D printing, laser cutting, and metalworks design
 
 Data Analysis Researcher | Gillings School of Global Public Health
+
 *Aug 2022 to May 2024*
 - Automated most probable number computation with independent program, reducing lab data entry time by 10+ hours
 - Processed and merged 3,000+ biological data points using dplyr, tidyr, and ggplot2 for pathogen prevalence analysis
