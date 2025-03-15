@@ -1,6 +1,7 @@
 ## Jump To:  
 - [Work Experience](#work-experience)  
-- [Projects](#projects)  
+- [Projects](#projects)
+- [Conference Posters](#conference-posters)
 
 ### Education
 Statistics & Analytics B.S. 
