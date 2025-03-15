@@ -1,7 +1,18 @@
 title: Veronica Upadhyay
-logo: <p align="left">
-  <img src="upadhyay_veronica_jan_2025_2.JPG" alt="Veronica Upadhyay" width="150" style="border-radius: 50%; object-fit: cover;">
-</p>
+logo: upadhyay_veronica_jan_2025_2.JPG
+
+@import "{{ site.theme }}";
+header {
+  img {
+    border-radius: 50%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
+}
 
 # description: text below image
 # show_downloads: true
