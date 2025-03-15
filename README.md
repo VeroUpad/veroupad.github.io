@@ -1,13 +1,10 @@
-# Statistical Programmer
+## Jump To:  
+- [Work Experience](#work-experience)  
+- [Projects](#projects)  
 
 ### Education
 Statistics & Analytics B.S. 
 UNC Chapel Hill
-
-## Jump To:  
-- [Education](#education)  
-- [Work Experience](#work-experience)  
-- [Projects](#projects)  
 
 ### Work Experience
 Statistical Programmer | Lineberger Comprehensive Cancer Center
@@ -30,3 +27,8 @@ Data Analysis Researcher | Gillings School of Global Public Health
 - Assisted in analyzing enteric pathogen presence across 13 biological and environmental matrices
 
 ### Projects
+Disease Contraction Simulation **Python** [Link](https://github.com/VeroUpad/COMP110_Python/tree/main/ex09)
+NBA Playoffs Models **R** [Link](https://github.com/VeroUpad/NBA-Playoffs-Predictive-Modeling)
+Digital Learning Habits **R** [Link](https://github.com/VeroUpad/Duke-Datafest-Digital-Learning)
+Global Lemur Conservation **R** [Link](https://github.com/VeroUpad/DLC-Lemur-Population-Project/tree/main)
+Choose Your Own Adventure **Python** [Link](https://github.com/VeroUpad/2022-Python-Projects/blob/main/cyoa.py)
