@@ -1,6 +1,6 @@
 # Statistical Programmer
 
-[Veronica_Headshot](upadhyay_veronica_jan_2025_2.JPG)
+![Veronica_Headshot](upadhyay_veronica_jan_2025_2.JPG)
 
 ### Education
 Statistics & Analytics B.S. 
