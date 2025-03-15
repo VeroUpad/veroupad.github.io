@@ -1,21 +1,9 @@
 title: Veronica Upadhyay
 
-author:
-  name: veroupad
-  email: veronica.upadhyay8@gmail.com
-  
 logo: IMG_4155.PNG
 
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+theme: jekyll-theme-minimal
 
-theme: minimal
-
-social_links:
-title: linkedin
-url: veronicaupadhyay-70a718234
 
 
 
