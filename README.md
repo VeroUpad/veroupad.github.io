@@ -17,7 +17,7 @@ Research Fellowship | Gillings School of Global Public Health
 - Designed 6 Quantitative Microbial Risk Assessment models to predict E. coli infection among youth population
 - Developed R functions to run Beta- Poisson and Exponential models to simulate infection risks across varying ages
 
-Makerspace Program Assistant | UNC Department of Applied Physical Sciences 	
+Program Assistant | UNC Department of Applied Physical Sciences 	
 - Designed custom parts using Tinkercad and Adobe Illustrator to support engineering and biomedical research projects
 - Supported users with 3D printing, laser cutting, and metalworks design
 
