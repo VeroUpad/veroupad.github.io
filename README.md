@@ -1,9 +1,9 @@
+<p align="left">
+  <img src="upadhyay_veronica_jan_2025_2.JPG" alt="Veronica Upadhyay" width="150" style="border-radius: 50%; object-fit: cover;">
+</p>
+
+
 # Statistical Programmer
-
-<img src="upadhyay_veronica_jan_2025_2.JPG" alt="Veronica Upadhyay" width="150" height="150" style="border-radius: 50%;">
-
-
-
 
 ### Education
 Statistics & Analytics B.S. 
