@@ -9,35 +9,35 @@ Hi I'm Veronica! I hold a **B.S in Statistics** from **UNC Chapel Hill**, with 2
 ### Education
 B.S. Statistics & Analytics • UNC Chapel Hill, Department of Statistics & Operations Research
 
-Relevant Coursework: *Optimization*, *Statistical Computing*, *Data Science*, *Healthcare Risk Analytics*, *Data Modeling*, *Stochastic Modeling*
+Coursework: *Optimization*, *Statistical Computing*, *Data Science*, *Healthcare Risk Analytics*, *Data Modeling*, *Stochastic Modeling*
 
 ### Work Experience
-Operations Intern • Well Dot, Inc.
+**Operations Intern** • Well Dot, Inc.
 
 *June 2025 to Present*
 - Develop workflows which optimize team efficiency for upcoming client launch
 
-Statistical Programmer • Lineberger Comprehensive Cancer Center
+**Statistical Programmer** • Lineberger Comprehensive Cancer Center
 
 *Jun 2023 to May 2025*
 - Developed R program to automate correlation matrix calculations for 17,000 genes across 2,000 single-cell RNA-seq datasets
 - Incorporated cell-line fitness conditions to assess genetic dependencies across 16 experimental conditions
 - Used high-performance computing clusters to generate score matrices for genomics data
 
-Research Fellowship • Gillings School of Global Public Health 
+**Research Fellowship** • Gillings School of Global Public Health 
 
 *May 2024 to May 2025*
 - Awarded $4,000 grant for independent research on infection risks in a public health study funded by Bill Gates Foundation
 - Designed 6 Quantitative Microbial Risk Assessment models to predict E. coli infection among youth population
 - Developed R functions to run Beta- Poisson and Exponential models to simulate infection risks across varying ages
 
-Program Assistant • UNC Department of Applied Physical Sciences 
+**Program Assistant** • UNC Department of Applied Physical Sciences 
 
 *Feb 2024 to April 2025*
 - Designed custom parts using Tinkercad and Adobe Illustrator to support engineering and biomedical research projects
 - Supported users with 3D printing, laser cutting, and metalworks design
 
-Data Analysis Researcher | Gillings School of Global Public Health
+**Data Analysis Researcher** • Gillings School of Global Public Health
 
 *Aug 2022 to May 2024*
 - Automated most probable number computation with independent program, reducing lab data entry time by 10+ hours
