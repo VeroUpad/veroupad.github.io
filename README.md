@@ -80,6 +80,8 @@ Global Lemur Conservation **(R)** [Link](https://github.com/VeroUpad/DLC-Lemur-P
 Choose Your Own Adventure **(Python)** [Link](https://github.com/VeroUpad/2022-Python-Projects/blob/main/cyoa.py)
 > Game with functions for player input, random- movement, and game state tracking.
 
+---
+
 ### Conference Posters
 "_Quantitative Microbial Risk Assessment of Enteric Infections in Maputo, Mozambique_" Upadhyay, V; Rao, G; Brown, J
 Celebration of Undergraduate Research, Chapel Hill, NC (Apr 2025)
