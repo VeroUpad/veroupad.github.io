@@ -53,6 +53,8 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 - Processed and merged 3,000+ biological data points using dplyr, tidyr, and ggplot2 for pathogen prevalence analysis
 - Assisted in analyzing enteric pathogen presence across 13 biological and environmental matrices
 
+---
+
 ### Projects
 Disease Contraction Simulation **(Python)** [Link](https://github.com/VeroUpad/COMP110_Python/tree/main/ex09)
 > COVID-19 spread & recovery dynamic graphical visual 
