@@ -7,11 +7,11 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 - [Conference Posters](#conference-posters)
 
 ### Education
-M.S. Data Science • University of Virginia
+**M.S. Data Science • University of Virginia**
 
 > *REGARDS Scholar: NIH funded merit scholarship for machine learning research in genomics with UVA School of Medicine* 
   
-B.S. Statistics & Analytics • University of North Carolina at Chapel Hill
+**B.S. Statistics & Analytics • University of North Carolina at Chapel Hill**
 
 > *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study* 
 
