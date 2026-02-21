@@ -6,6 +6,8 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 - [Projects](#projects)
 - [Conference Posters](#conference-posters)
 
+---
+
 ### Education
 **M.S. Data Science • University of Virginia**
 
@@ -13,7 +15,9 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
   
 **B.S. Statistics & Analytics • University of North Carolina at Chapel Hill**
 
-> *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study* 
+> *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study*
+
+---
 
 ### Work Experience
 **Operations Intern** • Well Dot, Inc.
@@ -21,7 +25,6 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 *June 2025 to Present*
 - Develop workflows which optimize team efficiency for upcoming client launch
 
----
 
 **Statistical Programmer** • Lineberger Comprehensive Cancer Center
 
