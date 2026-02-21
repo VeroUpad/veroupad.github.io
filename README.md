@@ -18,12 +18,22 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 > *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study*
 
 ---
+### Work Experience
+**Data Analyst, Workforce** • Well Dot, Inc.
+
+*August 2025 to Present*
+- Independently built Python program that iterates local LLMs through chat data to programmatically assess engagement KPIs
+- Edge computed with NLP models (spaCy + NLTK), automating 3+ hour logistics reporting task; now done in 10 minutes
+- Programmed automation for utilization calculation; reduced data entry workload by 1 hour daily + eliminated entry errors
+- Saving Operations department 8 hours per month with my automation that uses Google API to publish overtime requests
+
 
 ### Work Experience
 **Operations Intern** • Well Dot, Inc.
 
-*June 2025 to Present*
-- Develop workflows which optimize team efficiency for upcoming client launch
+*June 2025 to August 2025*
+- Used advanced SQL features like window functions and CTEs to pull data from BigQuery for ad-hoc reporting
+- Refined algorithms that categorize consumer response types, identifying disengagement patterns for operational reporting
 
 
 **Statistical Programmer** • Lineberger Comprehensive Cancer Center
