@@ -28,7 +28,6 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 - Saving Operations department 8 hours per month with my automation that uses Google API to publish overtime requests
 
 
-### Work Experience
 **Operations Intern** • Well Dot, Inc.
 
 *June 2025 to August 2025*
