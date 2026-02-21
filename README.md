@@ -1,5 +1,5 @@
 ## Profile
-Hi I'm Veronica! I hold a **B.S in Statistics** from **UNC Chapel Hill**, with 2+ years of experience in predictive mathematical modeling, optimization, statistical programming, and data analytics for genetic and epidemiological studies. I recently joined **Well Dot, Inc.** as an Operations Intern. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique. This is an extention of the Maputo Sanitation Project, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. 
+Hi I'm Veronica! I'm an Masters in Data Science student at UVA, with a genomics focus. I hold a **B.S in Statistics** from **UNC Chapel Hill**, with 2+ years of experience in predictive modeling and analytics experience for public health studies. I recently joined **Well Dot, Inc.** as an Data Analyst. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique. This is an extention of the Maputo Sanitation Project, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. 
 
 ## Contents 
 - [Work Experience](#work-experience)  
@@ -7,9 +7,10 @@ Hi I'm Veronica! I hold a **B.S in Statistics** from **UNC Chapel Hill**, with 2
 - [Conference Posters](#conference-posters)
 
 ### Education
-B.S. Statistics & Analytics • UNC Chapel Hill, Department of Statistics & Operations Research
-
-Coursework: *Optimization*, *Statistical Computing*, *Data Science*, *Healthcare Risk Analytics*, *Data Modeling*, *Stochastic Modeling*
+M.S. Data Science • University of Virginia
+  *REGARDS Scholar: NIH funded merit scholarship for machine learning research in genomics with UVA School of Medicine* 
+B.S. Statistics & Analytics • University of North Carolina at Chapel Hill
+  *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study* 
 
 ### Work Experience
 **Operations Intern** • Well Dot, Inc.
