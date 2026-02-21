@@ -9,7 +9,7 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 ### Education
 **M.S. Data Science • University of Virginia**
 
-> *REGARDS Scholar: NIH funded merit scholarship for machine learning research in genomics with UVA School of Medicine* 
+> *REGARDS Scholar: NIH funded merit scholarship to do applied statistics research in genomics with UVA School of Medicine* 
   
 **B.S. Statistics & Analytics • University of North Carolina at Chapel Hill**
 
@@ -20,6 +20,8 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 
 *June 2025 to Present*
 - Develop workflows which optimize team efficiency for upcoming client launch
+
+---
 
 **Statistical Programmer** • Lineberger Comprehensive Cancer Center
 
