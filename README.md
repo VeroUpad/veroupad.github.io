@@ -1,5 +1,5 @@
 ## Profile
-Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genomics focus. I hold a **B.S in Statistics** from **UNC**, with 2+ years of experience in predictive modeling and analytics for public health studies. I recently joined **Well Dot, Inc.** as an Data Analyst. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique.
+Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genomics focus. I hold a **B.S in Statistics** from **UNC**, with 2+ years of experience in predictive modeling and analytics for public health studies. I joined **Well Dot, Inc.** as an Data Analyst in Fall of 2025. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique.
 
 ## Contents 
 - [Work Experience](#work-experience)  
@@ -9,11 +9,11 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 ### Education
 M.S. Data Science • University of Virginia
 
-  *REGARDS Scholar: NIH funded merit scholarship for machine learning research in genomics with UVA School of Medicine* 
+> *REGARDS Scholar: NIH funded merit scholarship for machine learning research in genomics with UVA School of Medicine* 
   
 B.S. Statistics & Analytics • University of North Carolina at Chapel Hill
 
-  *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study* 
+> *SURF Awardee: Competitive stipend to conduct infection- risk- modeling research for a UNC School of Public Health study* 
 
 ### Work Experience
 **Operations Intern** • Well Dot, Inc.
