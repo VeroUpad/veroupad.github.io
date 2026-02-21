@@ -1,5 +1,5 @@
 ## Profile
-Hi I'm Veronica! I'm an Masters in Data Science student at UVA, with a genomics focus. I hold a **B.S in Statistics** from **UNC Chapel Hill**, with 2+ years of experience in predictive modeling and analytics experience for public health studies. I recently joined **Well Dot, Inc.** as an Data Analyst. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique. This is an extention of the Maputo Sanitation Project, a longitudinal study funded by the **Gates Foundation**, examining the effects of new sanitation infrastructure among a community in Maputo Mozambique. 
+Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genomics focus. I hold a **B.S in Statistics** from **UNC**, with 2+ years of experience in predictive modeling and analytics for public health studies. I recently joined **Well Dot, Inc.** as an Data Analyst. In 2024, I was awarded the UNC SURF— a research grant to supporting my efforts of analyzing the probabilistic the risks of enteric illnesses among a youth population in Mozambique.
 
 ## Contents 
 - [Work Experience](#work-experience)  
