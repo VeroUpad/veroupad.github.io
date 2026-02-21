@@ -35,19 +35,20 @@ Hi I'm Veronica! I'm an **M.S in Data Science** student at **UVA**, with a Genom
 - Refined algorithms that categorize consumer response types, identifying disengagement patterns for operational reporting
 
 
-**Statistical Programmer** • Lineberger Comprehensive Cancer Center
-
-*Jun 2023 to May 2025*
-- Developed R program to automate correlation matrix calculations for 17,000 genes across 2,000 single-cell RNA-seq datasets
-- Incorporated cell-line fitness conditions to assess genetic dependencies across 16 experimental conditions
-- Used high-performance computing clusters to generate score matrices for genomics data
-
-**Research Fellowship** • Gillings School of Global Public Health 
+**Undergrad Research Fellowship** • Gillings School of Global Public Health (Brown Lab)
 
 *May 2024 to May 2025*
-- Awarded $4,000 grant for independent research on infection risks in a public health study funded by Bill Gates Foundation
-- Designed 6 Quantitative Microbial Risk Assessment models to predict E. coli infection among youth population
-- Developed R functions to run Beta- Poisson and Exponential models to simulate infection risks across varying ages
+- Awarded $4,000 for independent research on infection risks in a public health study funded by the Gates Foundation
+- Modeled pathogenic infection risks by designing 6 Quantitative Microbial Risk Assessment models
+- R programming to run beta- Poisson and Exponential models and quantify infection risks across varying ages
+
+
+**Statistical Programmer** • Lineberger Comprehensive Cancer Center (Emanuele Lab)
+
+*Jun 2023 to May 2025*
+- Developed R program to automate correlation matrix calculations for 17,000 genes across 2,000 single cell RNA-seq datasets
+- Used high performance computing to generate cell line dependency scores across 16 experimental conditions
+
 
 **Program Assistant** • UNC Department of Applied Physical Sciences 
 
